@@ -1,0 +1,10 @@
+</head>
+<body>
+       <h1> Welcome to Blest Exchange Company &reg; </h1>
+    <hr>
+    <footer> Our Address 1 </footer>
+</body>
+
+<script>
+
+</script>
